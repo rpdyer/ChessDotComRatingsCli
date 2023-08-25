@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChessDotComRatings": {
+      "commandName": "Project",
+      "commandLineArgs": "user=Prodigio7 start=2023-07 end=2023-08"
+    }
+  }
+}
