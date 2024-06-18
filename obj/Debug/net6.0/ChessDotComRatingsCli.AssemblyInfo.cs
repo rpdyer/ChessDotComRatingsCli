@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChessDotComRatingsCli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6195a5c29150aac51a1219f916d9591d058dc699")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChessDotComRatingsCli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChessDotComRatingsCli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

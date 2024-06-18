@@ -1,21 +1,10 @@
 ﻿using ChessDotComRatings.Models;
-using Microsoft.VisualBasic;
 using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Dynamic;
-using System.Globalization;
-using System.Linq;
 using System.Net.Http.Headers;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.WebRequestMethods;
 
 namespace ChessDotComRatings
 {
-    internal class Ratings
+	internal class Ratings
     {
         internal static async Task<RatingsStats> GetStats(RatingsParameters parameters)
         {

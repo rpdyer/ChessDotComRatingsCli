@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "avM6CiT5rSe3qb9OxGGVGE5ys1LdrqzBgJgUgOT6pgvJVry0ZB2PpfmTVHSpV6fAuj6iLACzg2AoSshmdSuIDA==",
+  "dgSpecHash": "T07GPcFESFWvJhyPSdDba5RPhsNAg7cCfMTITGsa0A3KPmY187NbXLiMByn5DpYdWkFU99GqngL/NZHbtDB1ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robdyer\\source\\Personal\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj",
+  "projectFilePath": "C:\\Users\\rpdye\\source\\repos\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\robdyer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\robdyer\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
-    "C:\\Users\\robdyer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\robdyer\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\robdyer\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "C:\\Users\\rpdye\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rpdye\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\rpdye\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\rpdye\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\rpdye\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }

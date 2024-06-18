@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robdyer\\source\\Personal\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj": {}
+    "C:\\Users\\rpdye\\source\\repos\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robdyer\\source\\Personal\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj": {
+    "C:\\Users\\rpdye\\source\\repos\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robdyer\\source\\Personal\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj",
+        "projectUniqueName": "C:\\Users\\rpdye\\source\\repos\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj",
         "projectName": "ChessDotComRatingsCli",
-        "projectPath": "C:\\Users\\robdyer\\source\\Personal\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj",
-        "packagesPath": "C:\\Users\\robdyer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robdyer\\source\\Personal\\ChessDotComRatingsCli\\obj\\",
+        "projectPath": "C:\\Users\\rpdye\\source\\repos\\ChessDotComRatingsCli\\ChessDotComRatingsCli.csproj",
+        "packagesPath": "C:\\Users\\rpdye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rpdye\\source\\repos\\ChessDotComRatingsCli\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\robdyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rpdye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

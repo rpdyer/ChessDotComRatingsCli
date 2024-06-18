@@ -44,7 +44,14 @@ namespace ChessDotComRatings
                                 var tmp = paramValue.Substring(0, index2);
                                 year = int.Parse(tmp);
                                 tmp = paramValue.Substring(index2 + 1);
-                                month = int.Parse(tmp);
+                                if (!string.IsNullOrEmpty(tmp))
+                                {
+                                    month = int.Parse(tmp);
+                                }
+                                else
+                                {
+                                    month = 1;
+                                }
                                 result.StartDate = new DateTime(year, month, 1);
                             }
                             break;

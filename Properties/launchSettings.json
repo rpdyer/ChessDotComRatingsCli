@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChessDotComRatingsCli": {
+      "commandName": "Project",
+      "commandLineArgs": "user=Prodigio7 start=2024-6\r\n"
+    }
+  }
+}
